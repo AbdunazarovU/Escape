@@ -146,6 +146,7 @@ body{
 /* MAIN */
 .site-main{
   background-color: #f7f7f7;
+  padding-bottom: 89px;
 }
 
 /* FEATURE */
@@ -256,4 +257,11 @@ span img{
   color: #999999;
 }
 
-/* DRY => DO NOT REOEAT YOURSELF */
+
+/* SITE FOOTER */
+.site-footer{
+  text-align: center;
+}
+.footer-nav{
+  background-color: rgba(35, 47, 56, 0.6);
+}
