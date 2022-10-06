@@ -261,6 +261,8 @@ span img{
 /* SITE FOOTER */
 .site-footer{
   text-align: center;
+  background-image: url(../images/footerbg.png);
+  background-size: cover;
 }
 .footer-nav{
   background-color: rgba(35, 47, 56, 0.6);
